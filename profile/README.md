@@ -1,5 +1,8 @@
 <p align="center" width="100%">
-    <img width="50%" src="https://user-images.githubusercontent.com/2106178/229461814-40cbfa4f-a68e-4c76-9f67-d660a9e78b24.svg" alt="Yoke"> 
+    <picture>
+      <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/2106178/229465572-251a2047-31b1-45f9-ad64-966f44a98c57.svg">
+      <img alt="Yoke" width="50%" src="https://user-images.githubusercontent.com/2106178/229461814-40cbfa4f-a68e-4c76-9f67-d660a9e78b24.svg">
+    </picture>
 </p>
 
 ## 🙋‍♀️ Who we are
