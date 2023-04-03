@@ -7,9 +7,7 @@
 
 ## 🙋‍♀️ Who we are
 
-The first platform which removes the uncertainty of building integrations by offering no-code connectors to maximise your business potential. 
-
-Instantaneously connect your composable commerce solution with speed and confidence.
+The first platform which removes the uncertainty of building integrations by offering no-code connectors to maximise your business potential. Instantaneously connect your composable commerce solution with speed and confidence.
 
 [🗞️ Subscribe](https://www.yokeplatform.com/)
 
